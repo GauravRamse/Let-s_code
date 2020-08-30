@@ -1,2 +1,2 @@
-# Codewars
-I will ad all code i solved on Codewars
+# Let's Code
+I will ad all code i solved
