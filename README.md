@@ -1,2 +1,2 @@
 # Let's Code
-I will ad all code i solved
+I will add all code I solved.
